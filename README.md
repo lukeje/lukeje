@@ -1,4 +1,7 @@
-### Hi there 👋
+Hello!
+
+I'm a scientific researcher working on MRI of the human brain at the [Max Planck Institute for Human Cognitive and Brain Sciences](https://www.cbs.mpg.de/de) in [Leipzig, Germany](https://en.wikipedia.org/wiki/Leipzig).
+This is my personal github account where I put code and tools which I want to share because I think they might be useful to other people.
 
 <!--
 **lukeje/lukeje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
