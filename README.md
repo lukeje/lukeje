@@ -1,7 +1,7 @@
 Hello!
 
 I'm Luke Edwards, an Assistant Professor in diffusion MRI methods and data analysis at Maastricht University.
-This is my personal github account where I put code and tools which I want to share because I think they might be useful to other people.
+This is my personal account where I put code and tools which I want to share because I think they might be useful to other people.
 
 <!--
 **lukeje/lukeje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
